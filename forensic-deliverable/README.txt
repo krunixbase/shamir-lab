@@ -16,11 +16,12 @@ SHAMIR-CRACKER-LAB
 Audit-grade technical laboratory for digital forensics and compliance analysis
 
 Contact & Verification:
-📧 Email: shamircrackerlab@gmail.com
-GitHub: https://github.com/krunixbase
-GitHub: https://github.com/Gitkrunixdev
-LinkedIn: https://www.linkedin.com/in/shamircrackerlab
-Twitter / X: @shamircrackerlab
+📧 Email: shamircrackerlab@gmail.com  
+🔗 GitHub: [Gitkrunixdev](https://github.com/Gitkrunixdev)  
+🔗 GitHub: [krunixbase](https://github.com/krunixbase)  
+🔗 Twitter (X): [@shamircracker](https://x.com/shamircracker)  
+🔗 LinkedIn: [shamircrackerlab](https://www.linkedin.com/in/shamircrackerlab)
+
 
 Location:
 Gdańsk & Człuchów, Poland — remote, secure, evidence-oriented operations
