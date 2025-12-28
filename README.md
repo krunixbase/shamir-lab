@@ -34,11 +34,11 @@ traceability, and compliance.
 ---
 
 ## Contact & Professional Profiles
-- 📧 Email: shamircrackerlab@gmail.com
-- GitHub: https://github.com/krunixbase
-- GitHub: https://github.com/Gitkrunixdev
-- LinkedIn: https://www.linkedin.com/in/shamircrackerlab
-- Twitter / X: @shamircrackerlab  
+📧 Email: shamircrackerlab@gmail.com  
+🔗 GitHub: [Gitkrunixdev](https://github.com/Gitkrunixdev)  
+🔗 GitHub: [krunixbase](https://github.com/krunixbase)  
+🔗 Twitter (X): [@shamircracker](https://x.com/shamircracker)  
+🔗 LinkedIn: [shamircrackerlab](https://www.linkedin.com/in/shamircrackerlab)
 
 ---
 
