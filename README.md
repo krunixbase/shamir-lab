@@ -6,7 +6,7 @@ Supports modular workflows and lawful use only.
 
 > This repository is intended for lawful research, recovery, and educational purposes only.
 
-# SHAMIR-CRACKER-LAB · GPT 5.1 Powered by Copilot
+# SHAMIR-CRACKER-LAB 
 
 Audit-grade digital forensics and evidence analysis.
 
