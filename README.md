@@ -16,12 +16,12 @@ behavior in Shamir Secret Sharing schemes.
 It is intended for educational, forensic, and testing purposes only.
 
 ---
-## Purpose
+## Evidence handling (optional)
 
-This repository provides research tools for analyzing deterministic reconstruction
-behavior in Shamir Secret Sharing schemes.
+This repository may generate test artifacts, logs, and reconstruction traces
+that can be used for validation, reproducibility testing, and documentation review.
 
-It is intended for educational, forensic, and testing purposes only.
+It does not provide forensic services and does not represent an operational evidence analysis offering.
 
 ---
 
