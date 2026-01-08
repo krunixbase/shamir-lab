@@ -10,7 +10,6 @@ Supports modular workflows and lawful use only.
 
 Research laboratory for Shamir Secret Sharing reconstruction and validation.
 
-
 ## Research Laboratory for Shamir Secret Sharing Reconstruction
 
 This repository provides research tools for analyzing deterministic reconstruction
