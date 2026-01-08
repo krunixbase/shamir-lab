@@ -6,7 +6,10 @@ Supports modular workflows and lawful use only.
 
 > This repository is intended for lawful research, recovery, and educational purposes only.
 
-# Shamir Cracker Lab
+## Shamir Cracker Lab
+
+Research laboratory for Shamir Secret Sharing reconstruction and validation.
+
 
 ## Research Laboratory for Shamir Secret Sharing Reconstruction
 
@@ -14,14 +17,6 @@ This repository provides research tools for analyzing deterministic reconstructi
 behavior in Shamir Secret Sharing schemes.
 
 It is intended for educational, forensic, and testing purposes only.
-
----
-## Evidence handling (optional)
-
-This repository may generate test artifacts, logs, and reconstruction traces
-that can be used for validation, reproducibility testing, and documentation review.
-
-It does not provide forensic services and does not represent an operational evidence analysis offering.
 
 ---
 
