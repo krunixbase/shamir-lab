@@ -1,3 +1,8 @@
+# Shamir Cracker Lab
+
+Research laboratory for Shamir Secret Sharing reconstruction and validation.
+
+
 CLI toolkit for Shamir Secret Sharing recovery and reconstruction.  
 Designed for research, audits, and secure analysis.  
 Supports modular workflows and lawful use only.
@@ -6,9 +11,7 @@ Supports modular workflows and lawful use only.
 
 > This repository is intended for lawful research, recovery, and educational purposes only.
 
-## Shamir Cracker Lab
-
-Research laboratory for Shamir Secret Sharing reconstruction and validation.
+---
 
 ## Research Laboratory for Shamir Secret Sharing Reconstruction
 
