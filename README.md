@@ -47,20 +47,23 @@ and audit‑ready technical documentation.
 ---
 
 ## Deliverables
-- PDF forensic reports
-- Evidence logs
-- Screenshots and recovery traces
+- Test reports (PDF or text-based)
+- Reconstruction logs and traces
 - Validation artifacts
-
+  
 ---
 
-## Contact & Professional Profiles
-GitHub: https://github.com/krunixbase
-Contact: shamircrackerlab@gmail.com
+## Contact
+
+Email: shamircrackerlab@gmail.com  
+GitHub: https://github.com/krunixbase  
+Twitter (X): https://twitter.com/shamircrackerlab
 
 ---
 
 ## Location
-Gdansk & Czluchow, Poland — remote operations
+
+Gdańsk & Człuchów, Poland
+
 
 All materials are prepared with audit-readiness and evidentiary integrity in mind.
