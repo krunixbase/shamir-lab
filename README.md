@@ -15,13 +15,38 @@ prepared in a CLI-driven environment with a focus on integrity,
 traceability, and compliance.
 
 ---
+## Purpose
+
+This repository provides research tools for analyzing deterministic reconstruction
+behavior in Shamir Secret Sharing schemes.
+
+It is intended for educational, forensic, and testing purposes only.
+
+---
 
 ## Scope
-- Mobile device forensics (iOS / Android)
-- Evidence extraction and recovery
-- SQLite analysis and file carving
-- Metadata validation and reporting
-- Compliance-oriented documentation
+
+This repository focuses on:
+- deterministic share generation and reconstruction
+- edge case analysis
+- forensic testing of recovery scenarios
+
+---
+
+## Non‑Goals
+
+This repository:
+- is not a production‑grade implementation
+- does not provide secure key management
+- is not intended for unauthorized use or exploitation
+
+---
+
+## Ecosystem Context
+
+This repository is part of the Krunixbase ecosystem,
+which focuses on cryptographic validation, security engineering,
+and audit‑ready technical documentation.
 
 ---
 
