@@ -60,15 +60,12 @@ and audit‑ready technical documentation.
 ---
 
 ## Contact & Professional Profiles
-📧 Email: shamircrackerlab@gmail.com  
-🔗 GitHub: [Gitkrunixdev](https://github.com/Gitkrunixdev)  
-🔗 GitHub: [krunixbase](https://github.com/krunixbase)  
-🔗 Twitter (X): [@shamircracker](https://x.com/shamircracker)  
-🔗 LinkedIn: [shamircrackerlab](https://www.linkedin.com/in/shamircrackerlab)
+GitHub: https://github.com/krunixbase
+Contact: shamircrackerlab@gmail.com
 
 ---
 
 ## Location
-Gdańsk & Człuchów, Poland — remote operations
+Gdansk & Czluchow, Poland — remote operations
 
 All materials are prepared with audit-readiness and evidentiary integrity in mind.
