@@ -6,13 +6,14 @@ Supports modular workflows and lawful use only.
 
 > This repository is intended for lawful research, recovery, and educational purposes only.
 
-# SHAMIR-CRACKER-LAB 
+# Shamir Cracker Lab
 
-Audit-grade digital forensics and evidence analysis.
+## Research Laboratory for Shamir Secret Sharing Reconstruction
 
-This repository or deliverable contains structured forensic materials
-prepared in a CLI-driven environment with a focus on integrity,
-traceability, and compliance.
+This repository provides research tools for analyzing deterministic reconstruction
+behavior in Shamir Secret Sharing schemes.
+
+It is intended for educational, forensic, and testing purposes only.
 
 ---
 ## Purpose
