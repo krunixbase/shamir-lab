@@ -3,7 +3,7 @@
 Laboratory environment for research, cracking experiments, fuzzing workflows, and edge‑case analysis related to Shamir’s Secret Sharing (SSS).
 This repository consolidates and unifies two previous research labs:
 
-- Shamir-Cracker-LLab
+- Shamir-Cracker-Lab
 
 - shamir_cracker_lab
 
