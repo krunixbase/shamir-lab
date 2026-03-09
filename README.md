@@ -45,7 +45,6 @@ It is intentionally experimental and research‑oriented.
 
 # 📁 Repository Structure
 
-Kod
 ```
 shamir-lab/
 │
