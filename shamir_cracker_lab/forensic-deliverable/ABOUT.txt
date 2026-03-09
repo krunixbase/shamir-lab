@@ -1,0 +1,15 @@
+SHAMIR-CRACKER-LAB is a technical laboratory focused on digital forensics,
+evidence recovery, and compliance-oriented analysis.
+
+Work is performed in CLI-driven environments with emphasis on:
+- reproducibility
+- traceability
+- confidentiality
+- audit readiness
+
+Contact:
+📧 Email: shamircrackerlab@gmail.com  
+🔗 GitHub: [Gitkrunixdev](https://github.com/Gitkrunixdev)  
+🔗 GitHub: [krunixbase](https://github.com/krunixbase)  
+🔗 Twitter (X): [@shamircracker](https://x.com/shamircracker)  
+🔗 LinkedIn: [shamircrackerlab](https://www.linkedin.com/in/shamircrackerlab)
