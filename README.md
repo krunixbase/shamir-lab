@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status: Active">
+  <img src="https://img.shields.io/badge/project-type%3A%20research-blue.svg" alt="Project Type: Research">
+  <img src="https://img.shields.io/badge/language-python%203.10+-yellow.svg" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License: MIT">
+  <img src="https://img.shields.io/badge/security-research%20only-red.svg" alt="Security: Research Only">
+  <img src="https://img.shields.io/github/last-commit/krunixbase/shamir-lab.svg" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/krunixbase/shamir-lab.svg" alt="Repo Size">
+</p>
+
+
+
 # shamir‑lab
 
 Laboratory environment for research, cracking experiments, fuzzing workflows, and edge‑case analysis related to Shamir’s Secret Sharing (SSS).
