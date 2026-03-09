@@ -56,6 +56,7 @@ python src/brute-force.py --input shares_boundary.json
 
 ## 5.1 Share Generation Output (excerpt)
 
+```
 Kod
 Generated shares:
 (1, 170141183460469231731687303715884105727)
@@ -63,21 +64,26 @@ Generated shares:
 (3, 170141183460469231731687303715884105725)
 ...
 Prime p = 170141183460469231731687303715884105727
+```
 
 ## 5.2 Analyzer Output (excerpt)
 
+```
 Kod
 [!] Warning: y-values cluster near modulo boundary
 [!] High entropy skew detected
 [+] No duplicate x-values
 [+] Polynomial degree consistent with threshold t=3
+```
 
 ## 5.3 Brute‑Force Reconstruction Output
 
+```
 Kod
 Attempting reconstruction...
 Interpolation unstable: intermediate values overflow modulo range
 Reconstruction failed: inconsistent polynomial coefficients
+```
 
 # 6. Results
 
