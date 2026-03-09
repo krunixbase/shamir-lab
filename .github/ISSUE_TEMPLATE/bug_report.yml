@@ -1,0 +1,68 @@
+name: Bug Report
+description: Report a bug or unexpected behavior in the project
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the project. Please provide as much detail as possible.
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: Brief description of the bug
+      placeholder: "Unexpected error when reconstructing shares"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Provide exact steps to reproduce the issue
+      placeholder: |
+        1. Run analyzer.py with dataset X
+        2. Use threshold t=3
+        3. Observe error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      placeholder: "Reconstruction should complete without errors"
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      placeholder: "Interpolation fails with ValueError"
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Output
+      render: shell
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      options:
+        - Linux
+        - macOS
+        - Windows
+        - Other
+
+  - type: input
+    id: python
+    attributes:
+      label: Python Version
+      placeholder: "3.10.12"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
