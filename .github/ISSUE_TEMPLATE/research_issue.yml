@@ -1,0 +1,41 @@
+name: Research Task
+description: Document a research idea, experiment, or analysis task
+labels: [research]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to propose or document research experiments.
+
+  - type: input
+    id: title
+    attributes:
+      label: Research Topic
+      placeholder: "Fuzzing reconstruction near modulo boundaries"
+    validations:
+      required: true
+
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Hypothesis / Research Question
+      placeholder: "Interpolation instability increases near p-1."
+
+  - type: textarea
+    id: methodology
+    attributes:
+      label: Proposed Methodology
+      placeholder: |
+        - Generate synthetic shares near boundary values
+        - Run reconstruction fuzzing
+        - Log anomalies
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Outcomes
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
