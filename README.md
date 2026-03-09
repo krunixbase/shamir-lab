@@ -1,71 +1,155 @@
-# Shamir Cracker Lab
+# shamir‑lab
 
-Research laboratory for Shamir Secret Sharing reconstruction and validation.
+Laboratory environment for research, cracking experiments, fuzzing workflows, and edge‑case analysis related to Shamir’s Secret Sharing (SSS).
+This repository consolidates and unifies two previous research labs:
 
+- Shamir-Cracker-LLab
 
-CLI toolkit for Shamir Secret Sharing recovery and reconstruction.  
-Designed for research, audits, and secure analysis.  
-Supports modular workflows and lawful use only.
+- shamir_cracker_lab
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-> This repository is intended for lawful research, recovery, and educational purposes only.
+The goal is to provide a single, coherent workspace for experimentation, algorithmic exploration, forensic workflows, and validation of threshold‑based secret‑sharing schemes.
 
 ---
 
-## Research Laboratory for Shamir Secret Sharing Reconstruction
+# 🔍 Purpose and Scope
 
-This repository provides research tools for analyzing deterministic reconstruction
-behavior in Shamir Secret Sharing schemes.
+The repository serves as a sandbox for:
 
-It is intended for educational, forensic, and testing purposes only.
+- analyzing the behavior of Shamir’s Secret Sharing under adversarial conditions
 
----
+- exploring brute‑force and near‑threshold cracking strategies
 
-## Scope
+- generating synthetic shares and edge‑case datasets
 
-This repository focuses on:
-- deterministic share generation and reconstruction
-- edge case analysis
-- forensic testing of recovery scenarios
+- building fuzzing harnesses for robustness testing
 
----
+- performing forensic reconstruction and evidence collection
 
-## Non‑Goals
+- validating assumptions used in higher‑level cryptographic systems
 
-This repository:
-- is not a production‑grade implementation
-- does not provide secure key management
-- is not intended for unauthorized use or exploitation
+It is intentionally experimental and research‑oriented.
 
 ---
 
-## Ecosystem Context
+# 📁 Repository Structure
 
-This repository is part of the Krunixbase ecosystem,
-which focuses on cryptographic validation, security engineering,
-and audit‑ready technical documentation.
+Kod
+```
+shamir-lab/
+│
+├── src/
+│   ├── analyzer.py
+│   ├── brute-force.py
+│   ├── generator.py
+│   └── utils.py
+│
+├── forensic-deliverable/
+│   ├── ABOUT.txt
+│   ├── CONTACT.md
+│   ├── README.md
+│   ├── evidence/
+│   ├── logs/
+│   └── reports/
+│
+├── docs/
+│   └── research-notes.md   (optional, for future work)
+│
+├── README.md
+├── LICENSE
+└── SECURITY.md
+```
+
+## Key directories
+
+- src/ — core cracking tools, generators, analyzers, utilities
+
+- forensic-deliverable/ — structured evidence, logs, and reports for forensic workflows
+
+- docs/ — technical notes, research logs, design documents
 
 ---
 
-## Deliverables
-- Test reports (PDF or text-based)
-- Reconstruction logs and traces
-- Validation artifacts
-  
+# 🧪 Core Components
+
+## Cracking & Analysis Tools
+
+- analyzer.py — share inspection, threshold analysis, entropy checks
+
+- brute-force.py — brute‑force reconstruction attempts for research purposes
+
+- generator.py — synthetic share generation for fuzzing and testing
+
+- utils.py — helper functions used across experiments
+
+## Forensic Deliverables
+
+Contains structured materials for documenting experiments, including:
+
+- evidence snapshots
+
+- logs
+
+- forensic reports
+
+- metadata and chain‑of‑custody notes
+
 ---
 
-## Contact
+# 🚀 Usage Overview
 
-Email: shamircrackerlab@gmail.com  
-GitHub: https://github.com/krunixbase  
-Twitter (X): https://twitter.com/shamircrackerlab
+## Generate test shares
+
+```
+bash
+python src/generator.py
+```
+
+## Run brute‑force experiments
+
+```
+bash
+python src/brute-force.py
+```
+
+## Analyze share sets
+
+```
+bash
+python src/analyzer.py
+```
+
+The tools are intentionally modular so they can be combined into pipelines or fuzzing harnesses.
 
 ---
 
-## Location
+# 🧭 Roadmap
 
-Gdańsk & Człuchów, Poland
+- fuzzing harness for SSS edge‑case discovery
 
+- automated corpus generation
 
-All materials are prepared with audit-readiness and evidentiary integrity in mind.
+- performance benchmarks for cracking strategies
+
+- integration with shamir-validator
+
+- research notes and experiment templates
+
+- reproducible forensic workflows
+
+---
+
+# 🔒 Security Notice
+
+This repository is intended exclusively for research, validation, and educational purposes.
+It must not be used to attack real systems, break confidentiality of legitimate secrets, or bypass security controls.
+
+See SECURITY.md for details.
+
+---
+
+# 📜 License
+
+The repository includes a LICENSE file defining usage terms.
+If missing, choose a license consistent with the rest of the krunixbase ecosystem (MIT or Apache‑2.0 are typical for research tools).
+
+---
